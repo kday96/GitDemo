@@ -29,7 +29,7 @@ public class StepDefinitions {
 
     @And("^User card is displayed$")
     public void user_card_is_displayed() throws Throwable {
-    	System.out.println("User sees card displayed");
+    	System.out.println("User sees the card displayed");
     }
 
 }
